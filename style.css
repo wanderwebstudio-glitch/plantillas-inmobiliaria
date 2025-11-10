@@ -261,6 +261,7 @@
             position: relative;
             overflow: hidden;
             z-index: 1;
+            margin: 10px;
         }
         
         .btn-primary:before {
